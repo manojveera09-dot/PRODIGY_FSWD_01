@@ -1,6 +1,4 @@
-<img width="1917" height="982" alt="Hospital Managment System - Admin Dashboard" src="https://github.com/user-attachments/assets/7462631f-a6b5-4de9-945d-942087dd40de" />
-<img width="1917" height="977" alt="Hospital Managment System - Registration page" src="https://github.com/user-attachments/assets/14101b75-a9fe-41ff-ae19-7f3e5192797f" />
-<img width="1917" height="1032" alt="Hospital Managment System - Login page" src="https://github.com/user-attachments/assets/33837cf4-5664-45ad-89e6-4a0e13117d8a" />
+
 # 🏥 Hospital Management System
 
 A modern **Full-Stack Hospital Management System** developed using **React.js**, **Spring Boot**, **Spring Security**, **JWT Authentication**, and **MySQL**. The application provides secure role-based access for **Admin**, **Doctor**, and **Patient**, enabling efficient hospital management through authentication, doctor management, appointment booking, and profile management.
