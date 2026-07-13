@@ -1,3 +1,6 @@
+<img width="1917" height="1032" alt="Hospital Managment System - Login page" src="https://github.com/user-attachments/assets/70841b9d-201d-4834-b6ae-88575da92a28" />
+<img width="1917" height="977" alt="Hospital Managment System - Registration page" src="https://github.com/user-attachments/assets/2c862bdb-39d6-4b11-a93a-047632cbb07b" />
+<img width="1917" height="982" alt="Hospital Managment System - Admin Dashboard" src="https://github.com/user-attachments/assets/f3d8ee6c-91f2-4e60-b503-ee0ebc5bafbf" />
 
 # 🏥 Hospital Management System
 
